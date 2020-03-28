@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter Recaptcha
 An easy-to-use CodeIgniter library to work with reCAPTCHA version 2.0 a.k.a NO CAPTCHA reCAPTCHA.
 
@@ -45,3 +46,7 @@ if ($response['success']) {
 
 ## Live demo
 [http://rajaongkir.com/kontak](http://rajaongkir.com/kontak)
+=======
+# codeigniter-recaptcha
+An easy-to-use CodeIgniter library to work with reCAPTCHA version 2.0 a.k.a NO CAPTCHA reCAPTCHA
+>>>>>>> 63737a13bfaafcbe696992ad7df3db43054681f4
